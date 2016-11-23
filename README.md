@@ -2,6 +2,12 @@
 
 a sample test code for mocha
 
+## install mocha
+
+``` sh
+$ npm install -g mocha
+```
+
 ## run
 
 ``` sh
