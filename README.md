@@ -1,6 +1,6 @@
 # mocha-sample
 
-a sample test code for mocha
+a sample test code for [mocha](https://github.com/mochajs/mocha)
 
 ## install mocha
 
